@@ -1,6 +1,6 @@
 # bmson-spec
 
-[![Documentation Status](https://readthedocs.org/projects/bmson-spec-fork/badge/?version=master)](http://bmson-spec-fork.readthedocs.org/en/master/?badge=master)
+[![Documentation Status](https://bmson-spec-fork.readthedocs.io/en/latest/?badge=latest)](https://bmson-spec-fork.readthedocs.io/en/latest/?badge=latest)
 
 This is a technical specification document for bmson format.
 
